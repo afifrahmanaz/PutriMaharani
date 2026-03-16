@@ -10,28 +10,49 @@ const projects = [
         category: "F&B Landing Page",
         description: "Fresh vegetable salad e-commerce website with modern design",
         url: "https://salad-sayur-new.vercel.app/",
-        image: "/webdesain/SALAD SAYUR BELL.png", // Updated image path
+        image: "/webdesain/SALAD SAYUR BELL.png",
     },
     {
         title: "OneHundred Honey",
         category: "Product Landing Page",
         description: "Premium honey brand website with elegant presentation",
-        url: "https://onehundredhoney.com/",
-        image: "/webdesain/ONEHUNDRED.png", // Updated image path
+        url: "https://onehundredhoney-web.vercel.app/",
+        image: "/webdesain/ONEHUNDRED.png",
     },
     {
         title: "Oxide Studio",
         category: "Creative Agency",
         description: "Design studio portfolio showcasing creative work",
         url: "https://oxide-studio.vercel.app/",
-        image: "/webdesain/OXIDE.png", // Updated image path
+        image: "/webdesain/OXIDE.png",
     },
     {
         title: "Taman Ramah Lansia",
         category: "Social Campaign",
         description: "Elderly-friendly park initiative website",
         url: "https://taman-ramah-lansia.vercel.app/",
-        image: "/webdesain/TAMAN LANSIA.png", // Updated image path
+        image: "/webdesain/TAMAN LANSIA.png",
+    },
+    {
+        title: "Anjayo Residence",
+        category: "Property Landing Page",
+        description: "Modern residence property website with professional layout",
+        url: "https://anjayoresidence.vercel.app/",
+        image: "/webdesain/anjayo.jpg",
+    },
+    {
+        title: "SMPN 2 PKP",
+        category: "Education Website",
+        description: "School official website with informative and accessible design",
+        url: "https://smpn2-pkp.vercel.app/",
+        image: "/webdesain/smpn2.jpg",
+    },
+    {
+        title: "Maimon",
+        category: "Brand Landing Page",
+        description: "Creative brand website with clean and modern aesthetics",
+        url: "https://maimon-eosin.vercel.app/",
+        image: "/webdesain/maimon.jpg",
     },
 ];
 
